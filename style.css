@@ -53,13 +53,13 @@ nav li {
     background: white;
 }
 
-img {
-    width: 100%;
-}
-
-main,
 section {
     text-align: justify;
+    margin: 15px;
+}
+
+.mainArticlePic {
+    width: 100%;
 }
 
 .more-articles {
@@ -67,6 +67,7 @@ section {
     display: flex;
 }
 
-section {
-    margin: 15px;
+.last-articles {
+    width: 100%;
+    display: flex;
 }
